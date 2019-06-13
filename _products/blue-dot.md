@@ -5,7 +5,7 @@ weight: 3.39
 designer: Gudrun Brekke
 type: accessories
 condition: new
-image: 'app006prod_ryck0i.webp'
+image: '17ad003979affc1d7c81ebccd1ce5646_wujdbp.jpg'
 big_image: 'app006prod_jy71bc.jpg'
 ---
 
