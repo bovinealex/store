@@ -1,10 +1,8 @@
 ---
-name: Birgerboard
-price: 580
-weight: 3.66
+name: shelly earrings
+price: 10
 designer: Birgers Oterutleie
-type: Wood
-condition: Mint
+type: jewlery
 image: 'v1560443617/51343440_045_b_iqjnwp.jpg'
 big_image: 'birgerboard-big.jpg'
 ---
