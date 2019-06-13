@@ -64,9 +64,9 @@ prose:
           element: select
           label: Type
           options:
-            - value: Wood
-            - value: Metal
-            - value: Metallic
+            - value: jewlery
+            - value: accessories
+            - value: clothing
       - name: condition
         field:
           element: select
