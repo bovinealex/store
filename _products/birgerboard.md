@@ -5,7 +5,7 @@ weight: 3.66
 designer: Birgers Oterutleie
 type: Wood
 condition: Mint
-image: 'birgerboard-small.jpg'
+image: 'v1560443617/51343440_045_b_iqjnwp.jpg'
 big_image: 'birgerboard-big.jpg'
 ---
 
