@@ -2,7 +2,7 @@ body {
   @include font-feature-settings("kern", "liga", "pnum");
   -webkit-font-smoothing: antialiased;
   color: $base-font-color;
-  font-family: "Hoefler Text";
+  font-family: "New Century Schoolbook";
   font-size: $base-font-size;
   line-height: $base-line-height;
 }
