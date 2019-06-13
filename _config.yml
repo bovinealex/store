@@ -51,10 +51,6 @@ prose:
         field:
           element: number
           label: 'Price ($)'
-      - name: weight
-        field:
-          element: number
-          label: 'Weight (kg)'
       - name: designer
         field:
           element: text
@@ -64,17 +60,9 @@ prose:
           element: select
           label: Type
           options:
-            - value: Wood
-            - value: Metal
-            - value: Metallic
-      - name: condition
-        field:
-          element: select
-          label: Condition
-          options:
-            - value: Mint
-            - value: Worn
-            - value: Rough
+            - value: beauty
+            - value: jewlery
+            - value: clothes
       - name: image
         field:
           element: text
