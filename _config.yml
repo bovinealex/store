@@ -51,6 +51,10 @@ prose:
         field:
           element: number
           label: 'Price ($)'
+      - name: weight
+        field:
+          element: number
+          label: 'Weight (kg)'
       - name: designer
         field:
           element: text
@@ -60,9 +64,17 @@ prose:
           element: select
           label: Type
           options:
-            - value: beauty
-            - value: jewlery
-            - value: clothes
+            - value: Wood
+            - value: Metal
+            - value: Metallic
+      - name: condition
+        field:
+          element: select
+          label: Condition
+          options:
+            - value: Mint
+            - value: Worn
+            - value: Rough
       - name: image
         field:
           element: text
@@ -71,7 +83,6 @@ prose:
         field:
           element: text
           label: Big Image
-
 # http://jekyllrb.com/docs/configuration/
 permalink: blog/:title
 sass:
