@@ -12,8 +12,8 @@ payment:
 tracking_id: 'UA-62379004-1'
 
 # Jekll-Store Front
-image_prefix: 'http://res.cloudinary.com/jekyll-store/'
-paymillPublicKey: 323027826220f6ed944b96a1a47e35a0
+image_prefix: 'https://res.cloudinary.com/dyblk8reo/image/upload/'
+paymillPublicKey: ay83X48C3FAeX6k4keOyPpY2EXU
 wake_up: 'http://jekyll-store-microservice.herokuapp.com/ping'
 disqus_shortname: 'jekyll-store'
 
