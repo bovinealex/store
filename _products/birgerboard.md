@@ -1,8 +1,10 @@
 ---
 name: shelly earrings
 price: 10
-designer: Birgers Oterutleie
+weight: 3.39
+designer: Gudrun Brekke
 type: jewlery
+condition: Worn
 image: 'v1560443617/51343440_045_b_iqjnwp.jpg'
 big_image: 'birgerboard-big.jpg'
 ---
