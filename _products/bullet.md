@@ -4,7 +4,7 @@ price: 315
 weight: 4.13
 designer: Philip Notland
 type: accessories
-condition: 
+condition: Mint
 image: '47404728_045_d_xutr92.jpg'
 big_image: '47404728_045_d_xutr92.jpg'
 ---
