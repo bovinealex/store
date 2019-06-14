@@ -1,12 +1,12 @@
 ---
-name: Bullet
+name: portable record player
 price: 315
 weight: 4.13
 designer: Philip Notland
-type: Wood
-condition: Rough
-image: 'bullet-small.jpg'
-big_image: 'bullet-big.jpg'
+type: accessories
+condition: 
+image: '47404728_045_d_xutr92.jpg'
+big_image: '47404728_045_d_xutr92.jpg'
 ---
 
 Donec et scelerisque est. Suspendisse aliquet interdum interdum. Proin id sem arcu. Curabitur vitae est ullamcorper, malesuada nisi eu, maximus lacus. Cras vehicula, nulla sit amet suscipit porta, dolor risus posuere massa, nec accumsan nisl justo in risus. Sed ac ipsum sit amet orci volutpat dictum eu sed magna. Sed vitae enim lacinia risus condimentum placerat.
